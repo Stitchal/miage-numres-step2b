@@ -1,17 +1,16 @@
 # Q1 : Empreinte mémroire en mode JVM ?
-Réponse:
+Réponse: 184728
 
 # Q2: Temps et  taille  réponse   liste les questions
-Temps:
-Taille:
+Temps: 0.561386s
+Taille: 158 bytes
 
 # Q3: Temps et  taille  réponse  liste des propositions
-Temps:
-Taille:
-
+Temps: 0.114408s
+Taille: 115 bytes
 # Q4: Temps et  taille  réponse  évaluation les réponses
-Temps:
-Taille:
+Temps: 0.094680s
+Taille: 1 bytes
 
 # Q5 : Empreinte mémroire en mode natif ?
 Réponse:
