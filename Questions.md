@@ -29,7 +29,7 @@ Taille: 1 bytes
 
 
 # Q9 :  Que constatez-vous en comparant les métriques de la solution  initiales vs la votre vs celle-ci ?
-Réponse:
+Réponse: celle-ci est bien plus rapide
 
 # Q10 : Quelle dernière amélioration pourriez-vous proposer?
-Réponse:
+Réponse: intégrer une pagination des resultats sur listQuestion()
